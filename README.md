@@ -1,6 +1,6 @@
 # eb-pharma
 
-List of pharma companies in electoral bonds release (March 14, 2024). There may be others.
+List of pharma companies in electoral bonds release (March 14, 2024). There may be others. If there is an update, I will mark it with a timestamp.
 
 1. Torrent
 2. Natco
