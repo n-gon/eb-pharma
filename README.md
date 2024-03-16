@@ -1,6 +1,6 @@
 # eb-pharma
 
-List of pharma companies in electoral bonds release (March 14, 2024). There may be others. If there is an update, I will mark it with a timestamp.
+Added on March 14, 2024:
 
 1. Torrent
 2. Natco
@@ -21,3 +21,17 @@ List of pharma companies in electoral bonds release (March 14, 2024). There may 
 17. Eugia
 18. Cipla
 19. Bharat Biotech
+
+Added on March 16, 2024:
+
+20. Hetero Labs
+21. Honour Lab (Note: not a pharma company; included because it received investments from Hetero)
+22. Dasami
+23. Hazelo
+24. Hindys
+25. Selmar
+26. Micro Labs
+27. IPCA
+28. Alkem
+29. IPCA
+30. Maithri Labs
